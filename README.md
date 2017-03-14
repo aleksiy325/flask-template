@@ -1,2 +1,5 @@
 # flask-template
-flask template to get started quick
+
+A barebones project template to quickly get flask web apps up and running.
+jQuery and Bootstrap are already loaded.
+Models folder for SQLalchemy
